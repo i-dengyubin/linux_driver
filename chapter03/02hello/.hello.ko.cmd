@@ -1,0 +1,1 @@
+cmd_/home/devin/Documents/07_linux_driver/chapter03/02hello/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/devin/Documents/07_linux_driver/chapter03/02hello/hello.ko /home/devin/Documents/07_linux_driver/chapter03/02hello/hello.o /home/devin/Documents/07_linux_driver/chapter03/02hello/hello.mod.o
